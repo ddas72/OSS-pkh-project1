@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf(Open Souce SW Project\n");
+  printf("Open Souce SW Project\n");
   return 0;
 }
