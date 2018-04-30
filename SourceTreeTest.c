@@ -3,6 +3,6 @@
 int main()
 {
   printf("first oss code\n");
-  printf("Third oss Code\n");
+  printf("Second oss Code\n");
   return 0;
 }
